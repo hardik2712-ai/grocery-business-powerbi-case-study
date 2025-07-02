@@ -1,4 +1,4 @@
-# 🛒 Blinkit-Style Grocery Delivery Business Analysis Dashboard
+# 🛒 Grocery Delivery Business Analysis Dashboard
 
 📊 A fictional business analysis project simulating Blinkit's hyperlocal grocery model. Built using Power BI with a focus on operational efficiency, product performance, and customer satisfaction metrics.
 
