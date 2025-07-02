@@ -4,7 +4,7 @@
 
 ---
 
-## 🌐 [🔗 View Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYmM1Nzk3MzAtOTdiOS00ODA3LWFhOWQtMjYzM2RhYTQzZTA4IiwidCI6IjM0YmQ4YmVkLTJhYzEtNDFhZS05ZjA4LTRlMGEzZjExNzA2YyJ9)  
+## 🌐 [ View Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYmM1Nzk3MzAtOTdiOS00ODA3LWFhOWQtMjYzM2RhYTQzZTA4IiwidCI6IjM0YmQ4YmVkLTJhYzEtNDFhZS05ZjA4LTRlMGEzZjExNzA2YyJ9)  
 
 
 ---
@@ -47,10 +47,10 @@ This dashboard analyzes key metrics in a simulated grocery delivery environment,
 
 ## 🧠 Key Business Insights
 
-- 📍 **Tier 3 outlets** generate highest revenue despite limited categories.
-- 🥑 **Low fat items** show increasing trend in Tier 1 locations.
-- 🛒 **Supermarket Type1** dominates sales but has lower avg rating (3.6).
-- ⚠️ Potential delivery delays in Tier 2 zones based on feedback patterns.
+-  **Tier 3 outlets** generate highest revenue despite limited categories.
+-  **Low fat items** show increasing trend in Tier 1 locations.
+-  **Supermarket Type1** dominates sales but has lower avg rating (3.6).
+-  Potential delivery delays in Tier 2 zones based on feedback patterns.
 
 ---
 
